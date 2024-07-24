@@ -1,0 +1,6 @@
+"homepage": "https://mkUuU.github.io/alx-react"
+
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
